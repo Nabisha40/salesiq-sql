@@ -1,4 +1,4 @@
-# 📊 SalesIQ — Sales Intelligence System
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8375a5b4-8d33-4945-8bda-341ed01f86a3" /># 📊 SalesIQ — Sales Intelligence System
 
 > A production-grade SQL portfolio project demonstrating real-world sales analytics using complex JOINs, subqueries, normalization, views, stored procedures, and window functions — built entirely in MySQL.
 
@@ -152,4 +152,4 @@ SOURCE queries/analysis/07_analysis.sql;
 
 ---
 
-_Built by Aditya Mundhe | 📊 SalesIQ — Sales Intelligence System | [GitHub](https://github.com/adityamundhe30) | [LinkedIn](https://www.linkedin.com/in/adityamundhe30/)_
+_Built by Nabhisha | 📊 SalesIQ — Sales Intelligence System 
